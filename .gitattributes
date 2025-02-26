@@ -1,0 +1,2 @@
+*.dbc filter=lfs diff=lfs merge=lfs -text
+*.mpq filter=lfs diff=lfs merge=lfs -text
